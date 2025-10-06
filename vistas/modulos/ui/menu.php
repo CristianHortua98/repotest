@@ -8,8 +8,10 @@
         <div class="sidebar-brand-text mx-4">HelpDesk</div>
     </a>
 
+    <!-- Divider -->
     <hr class="sidebar-divider my-0">
 
+    <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
         <a class="nav-link" href="inicio">
             <i class="fas fa-fw fa-tachometer-alt"></i>
@@ -18,6 +20,7 @@
 
     <?php if($_SESSION["perfil"] == "ADMINISTRADOR"): ?>
 
+        <!-- Divider -->
         <hr class="sidebar-divider">
 
         <div class="sidebar-heading">
