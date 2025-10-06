@@ -1,8 +1,6 @@
 <?php
 date_default_timezone_set('America/Bogota');
-
 $hoy = date('Y-m-d');
-
 ?>
 
 <!DOCTYPE html>
@@ -37,13 +35,6 @@ $hoy = date('Y-m-d');
 
     <!-- Estilos Highcharts -->
     <link rel="stylesheet" href="vistas/componentes/highcharts/code/css/highcharts.css">
-
-    <!--
-    <link rel="stylesheet" href="vistas/componentes/datatables.net-bs/css/dataTables.bootstrap.min.css">
-    <link rel="stylesheet" href="vistas/componentes/datatables.net-bs/css/responsive.bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/1.6.2/css/buttons.dataTables.min.css"> -->
-
-
 
     <!-- ====================================
     SCRIPTS
