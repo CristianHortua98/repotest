@@ -14,6 +14,7 @@ MODELO
 // require_once "modelos/reportes.modelo.php";
 require_once "modelos/amigo.modelo.php";
 
+//AJUSTANDO PRUEBAS
 
 $plantilla = new ControladorPlantilla();
 $plantilla->ctrPlantilla();
