@@ -15,6 +15,7 @@ MODELO
 require_once "modelos/amigo.modelo.php";
 
 //AJUSTANDO PRUEBAS
+//AJUSTANDO ISSUE 2
 
 $plantilla = new ControladorPlantilla();
 $plantilla->ctrPlantilla();
